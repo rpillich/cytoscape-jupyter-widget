@@ -1,5 +1,3 @@
-:warning: **This widget is deprecated.  We recommend you try [ipycytoscape](https://github.com/cytoscape/ipycytoscape).**
-
 # CyJupyter (cytoscape-jupyter-widget)
 
 ### An interactive network visualizer for Jupyter Notebook
